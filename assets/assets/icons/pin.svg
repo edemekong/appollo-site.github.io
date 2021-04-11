@@ -1,0 +1,5 @@
+<svg id="pin" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <rect id="Rectangle_194" data-name="Rectangle 194" width="32" height="32" fill="#fff" opacity="0"/>
+  <path id="Path_312" data-name="Path 312" d="M14.667,2A10.667,10.667,0,0,0,4,12.561C4,19.867,13.4,28,13.8,28.347a1.333,1.333,0,0,0,1.733,0c.467-.347,9.8-8.48,9.8-15.787A10.667,10.667,0,0,0,14.667,2Zm0,23.533c-2.227-2.12-8-8-8-12.973a8,8,0,1,1,16,0C22.667,17.493,16.893,23.413,14.667,25.533Z" transform="translate(1.333 0.667)" fill="#fff"/>
+  <path id="Path_313" data-name="Path 313" d="M13.167,6a4.667,4.667,0,1,0,4.667,4.667A4.667,4.667,0,0,0,13.167,6Zm0,6.667a2,2,0,1,1,2-2A2,2,0,0,1,13.167,12.667Z" transform="translate(2.833 2)" fill="#fff"/>
+</svg>

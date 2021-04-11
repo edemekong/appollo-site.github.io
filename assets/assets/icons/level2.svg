@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="187" height="161" viewBox="0 0 187 161">
+  <g id="Group_2110" data-name="Group 2110" transform="translate(-9044.369 19303.527)">
+    <path id="Polygon_1" data-name="Polygon 1" d="M128.737,0a20,20,0,0,1,17.3,9.956l35.135,60.5a20,20,0,0,1,0,20.088l-35.135,60.5a20,20,0,0,1-17.3,9.956H58.263a20,20,0,0,1-17.3-9.956L5.833,90.544a20,20,0,0,1,0-20.088l35.135-60.5A20,20,0,0,1,58.263,0Z" transform="translate(9044.369 -19303.527)" fill="#29c66f"/>
+    <path id="Polygon_2" data-name="Polygon 2" d="M125.684,0a20,20,0,0,1,17.335,10.024l34.241,59.5a20,20,0,0,1,0,19.951l-34.241,59.5A20,20,0,0,1,125.684,159H57.316a20,20,0,0,1-17.335-10.024L5.741,89.476a20,20,0,0,1,0-19.951l34.241-59.5A20,20,0,0,1,57.316,0Z" transform="translate(9046.369 -19302.527)" fill="#fff"/>
+    <path id="Polygon_3" data-name="Polygon 3" d="M122,0a20,20,0,0,1,17.288,9.944l32.866,56.5a20,20,0,0,1,0,20.113l-32.866,56.5A20,20,0,0,1,122,153H56a20,20,0,0,1-17.288-9.944L5.85,86.556a20,20,0,0,1,0-20.113l32.866-56.5A20,20,0,0,1,56,0Z" transform="translate(9048.869 -19299.527)" fill="#29c66f"/>
+    <path id="Polygon_10" data-name="Polygon 10" d="M87.52,0a20,20,0,0,1,17.27,9.913l21.319,36.5a20,20,0,0,1,0,20.174l-21.319,36.5A20,20,0,0,1,87.52,113H44.48a20,20,0,0,1-17.27-9.913L5.891,66.587a20,20,0,0,1,0-20.174L27.21,9.913A20,20,0,0,1,44.48,0Z" transform="translate(9071.869 -19279.527)" fill="#fff"/>
+    <path id="Polygon_11" data-name="Polygon 11" d="M83.65,0a20,20,0,0,1,17.36,10.069l20.309,35.5a20,20,0,0,1,0,19.862l-20.309,35.5A20,20,0,0,1,83.65,111H43.35a20,20,0,0,1-17.36-10.069L5.681,65.431a20,20,0,0,1,0-19.862l20.309-35.5A20,20,0,0,1,43.35,0Z" transform="translate(9074.369 -19278.527)" fill="#0c0833"/>
+    <text id="L" transform="translate(9138 -19199.5)" fill="#29c66f" font-size="64" font-family="Montserrat-Medium, Montserrat" font-weight="500" letter-spacing="-0.002em"><tspan x="-19.008" y="0">L</tspan></text>
+    <text id="_2" data-name="2" transform="translate(9153 -19218.521)" fill="#29c66f" font-size="36" font-family="Montserrat-Medium, Montserrat" font-weight="500" letter-spacing="-0.002em"><tspan x="-10.332" y="0">2</tspan></text>
+  </g>
+</svg>
