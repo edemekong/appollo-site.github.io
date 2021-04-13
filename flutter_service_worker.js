@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "192697b2e15f66aaa3b493c3d35992f5",
+  "assets/AssetManifest.json": "dfe218ad9d78153b2e4deb02e65c401e",
 "assets/assets/fonts/Cocon-RegularTR.ttf": "3cb2dc7f975186787930e7b93ee18dc0",
 "assets/assets/fonts/Montserrat-Bold.ttf": "ade91f473255991f410f61857696434b",
 "assets/assets/fonts/Montserrat-Light.ttf": "409c7f79a42e56c785f50ed37535f0be",
@@ -17,6 +17,7 @@ const RESOURCES = {
 "assets/assets/icons/arrow-ios-downward-outline.svg": "b33d018c650d1b44248d60559aec363b",
 "assets/assets/icons/arrow-ios-upward-outline.svg": "cb9bc2d12e02fc679566185cdda41101",
 "assets/assets/icons/cake.svg": "4afb5b5f8711eba5e5a5817f52a4d899",
+"assets/assets/icons/cake_with_bg.svg": "921653e0046281e4d8b410a3bcc654c2",
 "assets/assets/icons/calendar.svg": "92be5dcd8a3be78086c5fec49a113c11",
 "assets/assets/icons/calender.svg": "3f6ae8f589f61411a90e9c2104446d86",
 "assets/assets/icons/calender_outline.svg": "1937367be0db5f8cba553c6e2ec281c1",
@@ -35,6 +36,7 @@ const RESOURCES = {
 "assets/assets/icons/level3.svg": "23d48674aac98c8719743274bed1155e",
 "assets/assets/icons/list-outline.svg": "5f28d359420ea30a74d817b08c4c0574",
 "assets/assets/icons/Map.svg": "905aabd1eb15814448ae6d018249e517",
+"assets/assets/icons/no_events.svg": "6f65093969cd3e0197db3723cbfcd6da",
 "assets/assets/icons/people.svg": "bccd7b9398c83d484de22a88bc21cfdb",
 "assets/assets/icons/person.svg": "a081b756370609e654c025404307366d",
 "assets/assets/icons/pin.png": "4e5f7753725c733d5a20c3123731222a",
@@ -52,9 +54,11 @@ const RESOURCES = {
 "assets/assets/images/appollo_logo_purple.png": "e26432ba029a5dec8f36ec2480259e82",
 "assets/assets/images/appollo_logo_white.png": "ffd0e5e72daa46f682a44f49ea197af7",
 "assets/assets/images/appstore.svg": "f54563d839be5e4bfa1a49e60cc600d4",
+"assets/assets/images/Map.jpg": "239af7484a2fa20499e1b320733435b5",
+"assets/assets/images/Map.png": "5e6b08ac3eec8e1090f1b976d88270f9",
 "assets/assets/images/placeholderImages/bar_chart_sample_4.png": "47eb8c0ebe66b10016cd46a345c178c4",
 "assets/assets/images/playstore.svg": "82258ec055a487721095072f4796d040",
-"assets/FontManifest.json": "7d4379277967b301b4028c9f66f52ef8",
+"assets/FontManifest.json": "7427687f28c88abd3e7f42b3f9b20b33",
 "assets/fonts/Cocon-RegularTR.ttf": "3cb2dc7f975186787930e7b93ee18dc0",
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
 "assets/fonts/Montserrat-Bold.ttf": "ade91f473255991f410f61857696434b",
@@ -76,7 +80,7 @@ const RESOURCES = {
 "assets/images/appstore.svg": "f54563d839be5e4bfa1a49e60cc600d4",
 "assets/images/placeholderImages/bar_chart_sample_4.png": "47eb8c0ebe66b10016cd46a345c178c4",
 "assets/images/playstore.svg": "82258ec055a487721095072f4796d040",
-"assets/NOTICES": "2f407233c1dec854ca9f7936600f566b",
+"assets/NOTICES": "80565e10e1030f69cb535cdbc78c2c66",
 "assets/packages/awesome_card/fonts/MavenPro-Bold.ttf": "c3c32db501249a4a864e3359d88469fb",
 "assets/packages/awesome_card/fonts/MavenPro-Medium.ttf": "06dcc8cf4f85c46c6985b69ed0b6b5b6",
 "assets/packages/awesome_card/fonts/MavenPro-Regular.ttf": "ebc7385f9f207b4ad5d0cc4204bf4068",
@@ -91,11 +95,11 @@ const RESOURCES = {
 "assets/packages/awesome_card/images/card_provider/visa.png": "b6cf8805abcc16ca2bc2ed401958cce1",
 "assets/packages/awesome_card/images/contactless_icon.png": "a092b99c8a1f820436ddf6e540eb632d",
 "favicon.png": "ada9d55a88c5596a756af517c294bb34",
-"index.html": "29b0df368550fb541abd7057fac06824",
-"/": "29b0df368550fb541abd7057fac06824",
-"main.dart.js": "5cae825814bbe4fb2bd3b5447fc09eb1",
-"manifest.json": "d40331d286e426f364f31717c566a2ae",
-"version.json": "241f4a42b47957020519cd2a4cf2c7a2"
+"index.html": "d131774b14453224ff5658e52f5eaa2a",
+"/": "d131774b14453224ff5658e52f5eaa2a",
+"main.dart.js": "caf6dc233080e0c01322dcccf654dacd",
+"manifest.json": "780ec3bc81fc9b57e70c68352e984c33",
+"version.json": "26f69b3b3b105846dc78118785e86cef"
 };
 
 // The application shell files that are downloaded before a service worker can
