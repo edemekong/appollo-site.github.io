@@ -95,9 +95,9 @@ const RESOURCES = {
 "assets/packages/awesome_card/images/card_provider/visa.png": "b6cf8805abcc16ca2bc2ed401958cce1",
 "assets/packages/awesome_card/images/contactless_icon.png": "a092b99c8a1f820436ddf6e540eb632d",
 "favicon.png": "ada9d55a88c5596a756af517c294bb34",
-"index.html": "d131774b14453224ff5658e52f5eaa2a",
-"/": "d131774b14453224ff5658e52f5eaa2a",
-"main.dart.js": "caf6dc233080e0c01322dcccf654dacd",
+"index.html": "ef721f9bde89ee0e815a021eaa405e05",
+"/": "ef721f9bde89ee0e815a021eaa405e05",
+"main.dart.js": "73fe892a400232b3d9631134d1d5552d",
 "manifest.json": "780ec3bc81fc9b57e70c68352e984c33",
 "version.json": "26f69b3b3b105846dc78118785e86cef"
 };
