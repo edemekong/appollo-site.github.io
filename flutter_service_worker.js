@@ -16,7 +16,7 @@ const RESOURCES = {
 "assets/assets/icons/arrow-back-outline.svg": "c4a253c8fc2e465ada9ab367364de75e",
 "assets/assets/icons/arrow-ios-downward-outline.svg": "b33d018c650d1b44248d60559aec363b",
 "assets/assets/icons/arrow-ios-upward-outline.svg": "cb9bc2d12e02fc679566185cdda41101",
-"assets/assets/icons/cake.svg": "4afb5b5f8711eba5e5a5817f52a4d899",
+"assets/assets/icons/cake.svg": "841161dcf3ed9eb4abf3f0b0e9caebc0",
 "assets/assets/icons/cake_with_bg.svg": "921653e0046281e4d8b410a3bcc654c2",
 "assets/assets/icons/calendar.svg": "92be5dcd8a3be78086c5fec49a113c11",
 "assets/assets/icons/calender.svg": "3f6ae8f589f61411a90e9c2104446d86",
@@ -95,9 +95,9 @@ const RESOURCES = {
 "assets/packages/awesome_card/images/card_provider/visa.png": "b6cf8805abcc16ca2bc2ed401958cce1",
 "assets/packages/awesome_card/images/contactless_icon.png": "a092b99c8a1f820436ddf6e540eb632d",
 "favicon.png": "ada9d55a88c5596a756af517c294bb34",
-"index.html": "6a12760f9adeb5880dc834994cda6255",
-"/": "6a12760f9adeb5880dc834994cda6255",
-"main.dart.js": "8517f316d1d073def58bfeef3014afac",
+"index.html": "443d3efa9e9e7ffee96a33017c89e1f4",
+"/": "443d3efa9e9e7ffee96a33017c89e1f4",
+"main.dart.js": "6a89ea5fde350b5980b1d10786b5216e",
 "manifest.json": "780ec3bc81fc9b57e70c68352e984c33",
 "version.json": "26f69b3b3b105846dc78118785e86cef"
 };
