@@ -80631,7 +80631,7 @@ K.CC.prototype={
 Z:function(){return new K.XW(F.TH(0),C.n)}}
 K.XW.prototype={
 D:function(a,b){var s=null,r=b.N(t.w).f.a,q=$.At(),p=t.t,o=t.i
-return T.dO(E.Gl(T.a4(H.a([new T.k(new V.j(0,0,0,16),M.R(s,T.a4(H.a([new F.CM(s),new T.CD(this.a.d,s)],p),C.y,C.k,C.e),C.f,q,s,s,s,s,s,s,s,s,s,r.a),s),new T.k(new V.j(0,0,0,16),this.a5m(r),s),new Q.OW(H.a([H.a(["How it works","Pricing","Sell Tickets","FAQ","Sitemap"],o),H.a(["Mobile app","Scanner app","For Organisers","For large events","Event Management"],o),H.a(["Event Planning","Why choose appollo","Blog","Privacy Policy","Terms of Service"],o),H.a(["About","Help","Careers","Prices","Investors"],o),H.a(["Contact Support","Facebook","Instagram","Twitter","LinkedIn"],o)],t.TE),s)],p),C.j,C.k,C.e),this.d,s),1)},
+return T.a4(H.a([T.dO(E.Gl(T.a4(H.a([new T.k(new V.j(0,0,0,16),M.R(s,T.a4(H.a([new F.CM(s),new T.CD(this.a.d,s)],p),C.y,C.k,C.e),C.f,q,s,s,s,s,s,s,s,s,s,r.a),s),new T.k(new V.j(0,0,0,16),this.a5m(r),s),new Q.OW(H.a([H.a(["How it works","Pricing","Sell Tickets","FAQ","Sitemap"],o),H.a(["Mobile app","Scanner app","For Organisers","For large events","Event Management"],o),H.a(["Event Planning","Why choose appollo","Blog","Privacy Policy","Terms of Service"],o),H.a(["About","Help","Careers","Prices","Investors"],o),H.a(["Contact Support","Facebook","Instagram","Twitter","LinkedIn"],o)],t.TE),s)],p),C.j,C.k,C.e),this.d,s),1)],p),C.j,C.k,C.e)},
 a5m:function(a){return O.m4(null,new K.asJ(this),this.a.d,t.ZA,t.Fs)}}
 K.asJ.prototype={
 $2:function(a,b){var s,r=null
